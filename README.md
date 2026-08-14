@@ -1,11 +1,14 @@
 # BuildFlow Pro
 
-Construction Tender & Project Communication System
+Construction Tender & Project Communication System.
 
-This repository is the single source of truth for the BuildFlow Pro project.
+This repository is the single source of truth for product strategy, AI context, design system, prompts, and production workflow.
 
-## Vision
-Create premium digital communication assets for global construction, engineering, and real estate professionals.
+## Current Goal
 
-## Current Phase
-Knowledge system setup.
+Build a premium digital product for global construction, engineering, and property professionals.
+
+## Core Principle
+
+Do not create random AI images.
+Create systems that save professional buyers time.
